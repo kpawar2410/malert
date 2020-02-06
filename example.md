@@ -138,4 +138,4 @@ python app.py -f /root/theZoo/test/WannaCry/ed01ebfbc9eb5bbea545af4d01bf5f107166
         "Wanna_Cry_Ransomware_Generic"
     ]
 }
-``
+```
