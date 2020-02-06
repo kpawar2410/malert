@@ -1,7 +1,8 @@
 ### Sample UseCase For detecting Wannacry:
 
 ```
-root@kali:~/malert# python app.py -f /root/theZoo/test/test/wannacry.exe -y 1 -e 1
+python app.py -f /root/theZoo/test/WannaCry/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa.exe -y 1 -e 1
+
 {
     "access_time": 1580971650, 
     "device": 2049, 
