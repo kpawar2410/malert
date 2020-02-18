@@ -1,4 +1,8 @@
-# MALERT 
+# MALERT (Malware + Alert)
+
+<p align="center">
+  <img src="images/malert1-removebg-preview.png">
+</p>
 
 Malert is a tool for static malware analysis which can run on all kinds of files, including pdf, office files, exe, etc, and tell if any of the file is malicious or not, without actually running it on your machine. 
 
