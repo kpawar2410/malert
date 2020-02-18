@@ -18,4 +18,13 @@ virtualenv pyenv
 pip install -r requirements.txt
 ```
 
-You're all set
+You're all set!
+
+## How to use the tool:
+
+###### If you're tsting on one single file:
+
+```
+python app.py -f <insert path to file> 
+```
+
