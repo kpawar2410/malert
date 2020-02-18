@@ -1,7 +1,21 @@
-Tool for static malware analysis
+# MALERT 
 
-Can run on all kinds of files, including pdf, office files, exe, etc
+Malert is a tool for static malware analysis which can run on all kinds of files, including pdf, office files, exe, etc, and tell if any of the file is malicious or not, without actually running it on your machine. 
 
-Can run on one single file or a directory containing a lot of malicious files
+Malert is able to do this by scanning through the files and integrating YARA rules while walking through them. 
 
-The project is still under development
+## To run the tool, follow these steps:
+
+1. Clone the repo
+
+2. Create a virtual environment 
+```
+virtualenv pyenv
+```
+
+3. Install the requirements
+```
+pip install -r requirements.txt
+```
+
+You're all set!
