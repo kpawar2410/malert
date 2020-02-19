@@ -32,3 +32,11 @@ You're all set!
 python app.py -f <insert path to file> 
 ```
 
+## How Malert Works
+
+<p align="center">
+  <img src="images/snip.png">
+</p>
+
+
+
