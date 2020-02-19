@@ -29,7 +29,7 @@ You're all set!
 ###### If you're tsting on one single file:
 
 ```
-python app.py -f <insert path to file> 
+python app.py -f <insert path to file>  -y <flag> -e <flag> -s <flag>
 ```
 
 ## How Malert Works
