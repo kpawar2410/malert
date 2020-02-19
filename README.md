@@ -26,11 +26,17 @@ You're all set!
 
 ## How to use the tool:
 
-###### If you're tsting on one single file:
+###### If you're testing on one single file:
 
 ```
 python app.py -f <insert path to file>  -y <flag> -e <flag> -s <flag>
 ```
+
+You can set -y flag to 0/1 if you want to see the aligning YARA rules
+
+You can set -e flag to 0/1 if you want to extract metadata information
+
+You can set -y flag to 0/1 if you want to store the information in the database
 
 ## How Malert Works
 
