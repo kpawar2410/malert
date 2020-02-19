@@ -35,7 +35,7 @@ python app.py -f <insert path to file>
 ## How Malert Works
 
 <p align="center">
-  <img src="images/snip.png">
+  <img src="images/snip.PNG">
 </p>
 
 
